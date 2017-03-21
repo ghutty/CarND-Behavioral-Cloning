@@ -19,9 +19,9 @@ The goals / steps of this project are the following:
 
 [image1]: https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture-624x890.png "Model (NVIDIA) Visualization"
 [image2]: ./images/track1.png "Track 1"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
-[image5]: ./examples/placeholder_small.png "Recovery Image"
+[image3]: ./images/track1_left.png "Track 1 Recovery Image"
+[image4]: ./images/track1_right.png "Track 1 Recovery Image"
+[image5]: ./images/track1_center.png "Track 1 Recovery Image"
 [image6]: ./images/track_2.png "Track 2"
 [image7]: ./images/track_2_left.png "Track 2 Recovery Image"
 [image8]: ./images/track_2_right.png "Track 2 Recovery Image"
