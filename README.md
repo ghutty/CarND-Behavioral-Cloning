@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 [image6]: ./images/track_2.png "Track 2"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
 [image8]: ./examples/placeholder_small.png "Flipped Image"
-[image8]: ./examples/placeholder_small.png "Flipped Image"
+[image9]: ./examples/placeholder_small.png "Flipped Image"
 
 ## Required Files
 
