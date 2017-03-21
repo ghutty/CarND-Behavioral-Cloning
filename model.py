@@ -45,9 +45,6 @@ for line in lines:
         images.append(image_flipped)
         measurements.append(measurement_flipped)
 
-
-
-
 X_train = np.array(images)
 y_train = np.array(measurements)
 
@@ -66,9 +63,8 @@ model.add(Conv2D(48, (5, 5), activation="relu", strides=(2, 2)))
 model.add(Conv2D(64, (3, 3), activation="relu"))
 model.add(Conv2D(64, (3, 3), activation="relu"))
 
-
 model.add(Flatten())
-#model.add(Dropout(0.5))
+model.add(Dropout(0.5))
 model.add(Dense(100))
 model.add(Dense(50))
 model.add(Dense(10))
@@ -78,6 +74,7 @@ model.compile(loss='mse', optimizer='adam')
 model.fit(X_train, y_train, validation_split=0.2,shuffle=True,epochs=10,verbose=1)
 
 model.save('model.h5')
+model.summary()
 exit()
 
 
