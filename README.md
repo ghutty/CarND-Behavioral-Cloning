@@ -23,9 +23,9 @@ The goals / steps of this project are the following:
 [image4]: ./examples/placeholder_small.png "Recovery Image"
 [image5]: ./examples/placeholder_small.png "Recovery Image"
 [image6]: ./images/track_2.png "Track 2"
-[image7]: ./examples/placeholder_small.png "Flipped Image"
-[image8]: ./examples/placeholder_small.png "Flipped Image"
-[image9]: ./examples/placeholder_small.png "Flipped Image"
+[image7]: ./images/track_2_left.png "Track 2 Recovery Image"
+[image8]: ./images/track_2_right.png "Track 2 Recovery Image"
+[image9]: ./images/track_2_center.png "Track 2 Recovery Image"
 
 ## Required Files
 
