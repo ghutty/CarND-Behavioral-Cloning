@@ -26,7 +26,6 @@ The goals / steps of this project are the following:
 [image7]: ./examples/placeholder_small.png "Flipped Image"
 
 ## Required Files
-
 ---
 My project includes the following files:
 * model.py containing the script to create and train the model
@@ -35,14 +34,10 @@ My project includes the following files:
 * video.mp4 showing a video car driven in autonomous mode using a CNN model
 * writeup_report.md or writeup_report.pdf summarizing the results
 
-####2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
 ```sh
 python drive.py model.h5
 ```
-
-####3. Submission code is usable and readable
-
 The model.py file contains the code for training and saving the convolution neural network. The file shows the pipeline I used for training and validating the model, and it contains comments to explain how the code works.
 
 ##Model Architecture and Training Strategy
