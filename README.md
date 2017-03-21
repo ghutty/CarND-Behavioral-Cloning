@@ -91,13 +91,13 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes
 
 ![alt text][image10]
-Ben Firner, Beat Flepp, Karol Zieba, Larry Jackel, Mariusz Bojarski, Urs Muller
-https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
+
 
 Here is a visualization of the architecture (note: visualizing the architecture is optional according to the project rubric)
 
 ![alt text][image1]
-
+Ben Firner, Beat Flepp, Karol Zieba, Larry Jackel, Mariusz Bojarski, Urs Muller
+https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
 
 ### Creation of the Training Set & Training Process
 
