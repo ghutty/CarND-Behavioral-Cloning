@@ -18,11 +18,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture-624x890.png "Model (NVIDIA) Visualization"
-[image2]: ./examples/placeholder.png "Grayscaling"
+[image2]: ./images/track1.png "Track 1"
 [image3]: ./examples/placeholder_small.png "Recovery Image"
 [image4]: ./examples/placeholder_small.png "Recovery Image"
 [image5]: ./examples/placeholder_small.png "Recovery Image"
-[image6]: ./examples/placeholder.png "Normal Image"
+[image6]: ./images/track2.png "Track 2"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
 [image8]: ./examples/placeholder_small.png "Flipped Image"
 [image8]: ./examples/placeholder_small.png "Flipped Image"
